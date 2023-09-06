@@ -1,7 +1,7 @@
 <?php  
-	define('HOST','localhost');
-	define('DATABASE','suportplug');
-	define('USER','root');
+	define('HOST','');
+	define('DATABASE','');
+	define('USER','');
 	define('PASSWORD','');
 
 	define('BASE','http://localhost/suportplug/');
